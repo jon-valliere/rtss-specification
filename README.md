@@ -1,5 +1,6 @@
-# Real-Time Segmented Streaming
-## Segmentation format for large scale real-time delivery of multimedia presentations through an object caching infrastructure.
+# Real-Time Segmented Streaming Specification
+
+[Current Version of Specification](https://github.com/jon-valliere/rtss-specification/blob/master/Real%20Time%20Segmented%20Streaming.pdf)
 
 This is a preliminary specification, and it is being provided in an effort to establish open development of a specification for producing and consuming real-time Media through existing Content Delivery Networks.
 

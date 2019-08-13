@@ -1,6 +1,6 @@
 # Real-Time Segmented Streaming Specification
 
-[Current Version of Specification](https://github.com/jon-valliere/rtss-specification/blob/master/Real%20Time%20Segmented%20Streaming.pdf)
+[\[Current Version of Specification\]](https://github.com/jon-valliere/rtss-specification/blob/master/Real%20Time%20Segmented%20Streaming.pdf) [\[Discuss Low Latency Streaming on Slack\]](https://video-dev.slack.com/messages/lhls/) 
 
 This is a preliminary specification, and it is being provided in an effort to establish open development of a specification for producing and consuming real-time Media through existing Content Delivery Networks.
 
@@ -12,4 +12,4 @@ While the attached preliminary specification and all images contained therein ar
 
 It is specifically intended that the Committee and all persons working with, on behalf of, or for the benefit of the Committee, shall have open access to the materials in the attached preliminary specification, and that the use of any copyrighted material, herein, for any purpose, other than for the purposes of the Committee, is reserved to the author.
 
-Jonathan Valliere, author
+Jonathan Valliere, author [\[Send Message on Slack\]](https://video-dev.slack.com/team/U5PCJU1MG)
